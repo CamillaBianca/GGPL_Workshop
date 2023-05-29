@@ -1,7 +1,7 @@
 # Laboratorio di Progettazione Geometrica e Grafica
 
 Materiale dell'esame <b>GGPL</b>, scritto dalla studentessa Camilla Bianca, matricola <b>461663</b>,<br>
-iscritta al primo anno della Laurea Magistrale in Ingegneria Informatica a RomaTre.
+iscritta al primo anno della Laurea Magistrale in Ingegneria Informatica a RomaTre, a.a. 2018/2019.
 
 Ogni cartella contiene un <b>workshop</b>, assegnato dal professore nella data specificata:<br>
 <ol>
